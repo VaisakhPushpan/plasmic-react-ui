@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" viewBox="0 0 13 42">
+  <g filter="url(#a)">
+    <path fill="#fff" fill-opacity=".3" d="M3.09 4.349c.283-2.126 4.409-1.902 6.193-1.704.287.032.374.406.143.58-.904.679-2.447 2-2.833 3.357-1.897 6.652-1.499 17.904-1.172 23.217.12 1.936-.197 3.877-.983 5.65L3.09 38.49s-1.274-24.569 0-34.14z"/>
+    <path fill="url(#b)" d="M3.09 4.349c.283-2.126 4.409-1.902 6.193-1.704.287.032.374.406.143.58-.904.679-2.447 2-2.833 3.357-1.897 6.652-1.499 17.904-1.172 23.217.12 1.936-.197 3.877-.983 5.65L3.09 38.49s-1.274-24.569 0-34.14z"/>
+  </g>
+  <defs>
+    <linearGradient id="b" x1="2.524" x2="5.714" y1="3.481" y2="6.346" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="a" width="12.082" height="41.012" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_3147_2028" stdDeviation="1.262"/>
+    </filter>
+  </defs>
+</svg>

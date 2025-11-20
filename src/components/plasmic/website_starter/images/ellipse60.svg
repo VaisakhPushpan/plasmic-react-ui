@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" viewBox="0 0 78 78">
+  <foreignObject width="458.456" height="458.456" x="-190.672" y="-190.672">
+    <div xmlns="http://www.w3.org/1999/xhtml" clip-path="url(#a)" style="backdrop-filter:blur(95.34px);height:100%;width:100%"/>
+  </foreignObject>
+  <g data-figma-bg-blur-radius="190.672">
+    <circle cx="38.556" cy="38.556" r="37.112" fill="#333" fill-opacity=".2"/>
+    <circle cx="38.556" cy="38.556" r="37.834" stroke="url(#b)" stroke-opacity=".8" stroke-width="1.444"/>
+  </g>
+  <defs>
+    <linearGradient id="b" x1="38.873" x2="38.556" y1="1.444" y2="75.668" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".1"/>
+    </linearGradient>
+    <clipPath id="a" transform="translate(190.672 190.672)">
+      <circle cx="38.556" cy="38.556" r="37.112"/>
+    </clipPath>
+  </defs>
+</svg>
