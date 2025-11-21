@@ -485,6 +485,26 @@
           "id": "7OxgVzUI96aa",
           "name": "Vector 17",
           "filePath": "plasmic/website_starter/images/vector17.svg"
+        },
+        {
+          "id": "5fMIMk43aTlK",
+          "name": "icon Music copy 1",
+          "filePath": "plasmic/website_starter/images/iconMusicCopy1.png"
+        },
+        {
+          "id": "Yhok9POk4VO2",
+          "name": "Icon Art copy 1",
+          "filePath": "plasmic/website_starter/images/iconArtCopy1.png"
+        },
+        {
+          "id": "4GjFxr57Ogn8",
+          "name": "icon yoga copy 1",
+          "filePath": "plasmic/website_starter/images/iconYogaCopy1.png"
+        },
+        {
+          "id": "rv_O4J9V8GdU",
+          "name": "ChatGPT Image Nov 15, 2025, 11_40_17 AM copy 1",
+          "filePath": "plasmic/website_starter/images/chatGptImageNov152025114017AmCopy1.png"
         }
       ],
       "indirect": false,
